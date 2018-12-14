@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <dimen name="square_size">100dp</dimen>
+    <dimen name="square_margin_top">50dp</dimen>
+    <dimen name="drop_box_height">200dp</dimen>
 </resources>
